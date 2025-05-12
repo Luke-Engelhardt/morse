@@ -1,4 +1,4 @@
-# Morse Code Translator
+# morse
 
 A command-line Morse code translator written in C. This tool allows you to encode plain text into Morse code and decode Morse code back into human-readable text. It supports letters, digits, and a range of common special characters.
 
@@ -50,7 +50,7 @@ A command-line Morse code translator written in C. This tool allows you to encod
 
 
 ## Usage
-´´´bash
+```bash
 ./morse [options] [input]
 
 ### Options:
