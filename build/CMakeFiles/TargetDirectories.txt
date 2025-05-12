@@ -1,0 +1,7 @@
+/Users/lukeengelhardt/Uni/Programmieren1/C/morse/morse/build/CMakeFiles/morse.dir
+/Users/lukeengelhardt/Uni/Programmieren1/C/morse/morse/build/CMakeFiles/edit_cache.dir
+/Users/lukeengelhardt/Uni/Programmieren1/C/morse/morse/build/CMakeFiles/rebuild_cache.dir
+/Users/lukeengelhardt/Uni/Programmieren1/C/morse/morse/build/CMakeFiles/list_install_components.dir
+/Users/lukeengelhardt/Uni/Programmieren1/C/morse/morse/build/CMakeFiles/install.dir
+/Users/lukeengelhardt/Uni/Programmieren1/C/morse/morse/build/CMakeFiles/install/local.dir
+/Users/lukeengelhardt/Uni/Programmieren1/C/morse/morse/build/CMakeFiles/install/strip.dir

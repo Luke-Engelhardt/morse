@@ -191,6 +191,16 @@ void displayHelp() {
     printf("  morse -eo [file] [text]  Encode text and save to file\n");
     printf("  morse -do [file] [morse] Decode Morse code and save to file\n");
     printf("  morse -h               Display this help information\n");
+    printf("  morse --programmer-info Display programmer information\n");
+}
+
+// Function to display programmer information
+void displayProgrammerInfo() {
+    printf("Morse Code Translator\n");
+    printf("Author: Luke Engelhardt\n");
+    printf("Date: 12.05.2025\n");
+    printf("Version: 1.0\n");
+    printf("Contact: engelhardt.luk-it24@it.dhbw-ravensburg.de\n");
 }
 
 int main(int argc, char* argv[]) {
@@ -203,6 +213,12 @@ int main(int argc, char* argv[]) {
     // Check for help option
     if (strcmp(argv[1], "-h") == 0) {
         displayHelp();
+        return 0;
+    }
+    
+    // Check for programmer info option
+    if (strcmp(argv[1], "--programmer-info") == 0) {
+        displayProgrammerInfo();
         return 0;
     }
     

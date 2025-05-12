@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/morse.dir/source/morse.c.o -o morse
